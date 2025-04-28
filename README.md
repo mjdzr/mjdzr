@@ -1,7 +1,7 @@
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fmjdzr&label=Hits&icon=github&color=%23198754">
-![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mjdzr/)
-![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:majid.zare@ualberta.ca)
-![Github](https://img.shields.io/github/followers/mjdzr?label=Follow&style=social)](https://github.com/mjdzr)
+![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/mjdzr/)
+![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)]mailto:majid.zare@ualberta.ca)
+![Github](https://img.shields.io/github/followers/mjdzr?label=Follow&style=social)(https://github.com/mjdzr)
 
 ⚡ I'm interested in learning Data Science and Machine Learning through Python and R.
 
