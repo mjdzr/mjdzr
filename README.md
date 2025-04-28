@@ -14,15 +14,21 @@
 - Statistical analysis
 
 ### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy]()
-![Pandas]()
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" style="width:20px;">
-![PostgreSQL](https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/r-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linux-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/leaflet-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postgresql-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/latex-auto.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/javascript.svg" style="width:50px;">
+<img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/css.svg" style="width:50px;">
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjdzr&show_icons=true&locale=en&layout=compact" alt="mjdzr" />
