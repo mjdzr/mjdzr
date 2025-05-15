@@ -9,9 +9,11 @@
 
 ### 🖥 Skills
 
-- Machine Learning
-- Data visualization
+- AI/ML
 - Statistical analysis
+- Uncertainty Assessment
+- Data visualization
+- Dashboards and User Interactive Tools
 
 ### ⚙️ Tech Stack
 <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/r-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linux-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/leaflet-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postgresql-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/latex-auto.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/html.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/javascript.svg" style="width:50px; display:inline;"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/css.svg" style="width:50px;">
